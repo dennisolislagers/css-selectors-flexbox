@@ -3,3 +3,31 @@
 ========================================================= */
 
 /* Schrijf hier  jouw CSS! */
+
+.one {
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.span{
+    display:flex;
+    justify-content: flex-start;
+}
+.Edu{
+    display:flex;
+    justify-content: flex-end;
+}
+.list{
+    display:flex;
+    justify-content: start;
+    list-style: none;
+}
+.inloggen{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.five{
+    display: flex;
+}
